@@ -13,7 +13,7 @@ const io     = require('socket.io')(server);
 
 //Conexão banco de dados
 mongoose.connect(
-    'mongodb+srv://root:250684Thi$@cluster0-wjibf.mongodb.net/test?retryWrites=true&w=majority', {
+    'mongodb+srv://root:123$@cluster0-wjibf.mongodb.net/test?retryWrites=true&w=majority', {
     useNewUrlParser: true
 });
 
